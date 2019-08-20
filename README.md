@@ -54,6 +54,9 @@ When you have a function invoked with the New keyword the this keyword is bound 
 
 it references and links the parent class above it 
 
+Why do we need super() in an extended class?
+
+
 ## Project Set up
 
 Follow these steps to set up and work on your project:
