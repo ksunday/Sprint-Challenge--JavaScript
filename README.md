@@ -52,7 +52,10 @@ When you have a function invoked with the New keyword the this keyword is bound 
 
 5. Why do we need super() in an extended class?
 
+it references and links the parent class above it 
+
 Why do we need super() in an extended class?
+
 
 ## Project Set up
 
